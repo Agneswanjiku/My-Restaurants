@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_exit_to_app_white_24dp" />
+    <drawable name="ic_local_phone_white_24dp" />
+    <drawable name="ic_map_white_24dp" />
+    <drawable name="ic_search_white_24dp" />
+</resources>
